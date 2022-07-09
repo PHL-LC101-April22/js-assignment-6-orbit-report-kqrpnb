@@ -21,6 +21,16 @@ table {
 	color: #fff
 }
 
+.data-row {
+	background:lightsteelblue;
+	color:midnightblue;
+}
+
+.data-row2 {
+	background:midnightblue;
+	color:lightsteelblue;
+}
+
 th, td {
 	text-align: left;
 	margin: 5px 10px;
